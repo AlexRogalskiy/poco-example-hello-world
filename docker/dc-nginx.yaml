@@ -1,0 +1,10 @@
+version: '3'
+
+services:
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "${NGINX_PORT}:80"
+    volumes:
+      - "${NGINX_CONFIG}:/etc/nginx/nginx.conf:ro"
+      - "${WWW}:/var/www"

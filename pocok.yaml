@@ -1,0 +1,9 @@
+version: '1.0'
+maintainer: 'operations@shiwaforce.com'
+
+environment:
+  include: docker/conf.env
+
+plan:
+  default:
+    - docker/dc-nginx.yaml
