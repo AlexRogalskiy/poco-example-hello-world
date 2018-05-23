@@ -1,15 +1,15 @@
-# Pocok Hello World Example 
+# Proco Hello World Example 
 
-If you are not familiar with Pocok, you can find more information at [pocok.io](https://pocok.io).   
-If you haven't installed Pocok yet, follow the [Pocok's installation guide](http://pocok.io/documentation/install/).
+If you are not familiar with Proco, you can find more information at [proco.app](https://proco.app).   
+If you haven't installed Pocok yet, follow the [Proco's installation guide](https://proco.app/documentation/install/).
 
 
 ## Getting started with Pocok Hello World Example
-Add pocok-examples repo to your pocok catalog:
+Add proco-examples repo to your proco catalog:
 ```
-pocok repo add pocok-example https://github.com/shiwaforce/pocok-examples.git
+proco repo add proco-example https://github.com/shiwaforce/proco-examples.git
 ```
-Start Pocok Hello World Example project:
+Start Proco Hello World Example project:
 ```
-pocok up pocok-example-hello-world
+proco up proco-example-hello-world
 ``` 
