@@ -1,15 +1,15 @@
-# Proco Hello World Example 
+# Poco Hello World Example 
 
-If you are not familiar with Proco, you can find more information at [proco.app](https://proco.app).   
-If you haven't installed Proco yet, follow the [Proco's installation guide](https://proco.app/documentation/install/).
+If you are not familiar with Poco, you can find more information at [proco.app](https://proco.app).   
+If you haven't installed Poco yet, follow the [Poco's installation guide](https://proco.app/documentation/install/).
 
 
-## Getting started with Proco Hello World Example
-Add proco-examples repo to your proco catalog:
+## Getting started with Poco Hello World Example
+Add poco-examples repo to your poco catalog:
 ```
-proco repo add proco-example https://github.com/shiwaforce/proco-example-hello-world
+poco repo add poco-example https://github.com/shiwaforce/poco-example-hello-world
 ```
-Start Proco Hello World Example project:
+Start Poco Hello World Example project:
 ```
-proco up proco-example-hello-world
+poco up poco-example-hello-world
 ``` 
